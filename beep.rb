@@ -2,7 +2,7 @@ class Beep < Formula
   desc "CLI tool to play beep sounds and respond to beep commands on macOS"
   homepage "https://github.com/G2X-Team/beep"
   url "https://github.com/G2X-Team/beep.git", branch: "main"
-  version "1.0.0"
+  version "0.2.0"
   license "MIT"
 
   def install
